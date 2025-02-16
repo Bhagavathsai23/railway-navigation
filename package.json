@@ -7,6 +7,7 @@
     "react-leaflet": "^4.2.1",
     "leaflet": "^1.9.3",
     "lucide-react": "^0.243.0"
+    "homepage": "https://Bhagavathsai23.github.io/railway-navigation"
   },
   "scripts": {
     "start": "react-scripts start",
