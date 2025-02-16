@@ -18,3 +18,4 @@ const MapComponent = ({ stations, path }) => {
 
 export default MapComponent;
 
+
